@@ -1,4 +1,4 @@
-# PoC Collection
+# Amazing Collection of PoC.
 
 ## Index
 
